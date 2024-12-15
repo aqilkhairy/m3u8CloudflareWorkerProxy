@@ -61,3 +61,4 @@ For more details, refer to the [Cloudflare Workers documentation](https://develo
 > &referer=${encodeURIComponent("https://example.com")}
 > &origin=${encodeURIComponent("https://example.com")}
 > ```
+
